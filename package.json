@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "start": "python3 -m http.server 8080 --directory src"
+  },
+  "dependencies": {
+    "leaflet": "^1.9.4"
+  }
+}
