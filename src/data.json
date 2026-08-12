@@ -1,0 +1,153 @@
+{
+  "map": {
+    "center": {
+      "lat": 32.7795394,
+      "lng": -96.7928908
+    },
+    "zoom": 10
+  },
+  "participants": [
+    {
+      "id": 1,
+      "name": "Edison",
+      "visibleAddress": "Frisco",
+      "hiddenAddress": "10506 Ambergate Ln, Frisco, TX 75035",
+      "coordinates": {
+        "lat": 33.1409066,
+        "lng": -96.7890502
+      }
+    },
+    {
+      "id": 2,
+      "name": "Patrick",
+      "visibleAddress": "Greenville",
+      "hiddenAddress": "3404 Stanford St, Greenville, TX 75401",
+      "coordinates": {
+        "lat": 33.1255188,
+        "lng": -96.1155468
+      }
+    },
+    {
+      "id": 3,
+      "name": "Nathan",
+      "visibleAddress": "Killeen",
+      "hiddenAddress": "4109 Windwood Dr, Killeen, TX 76542",
+      "coordinates": {
+        "lat": 31.0620241,
+        "lng": -97.7104109
+      }
+    },
+    {
+      "id": 4,
+      "name": "Te",
+      "visibleAddress": "Far North Dallas",
+      "hiddenAddress": "14941 Oaks N Dr, Dallas, TX 75254",
+      "coordinates": {
+        "lat": 32.9520329,
+        "lng": -96.8150281
+      }
+    },
+    {
+      "id": 5,
+      "name": "Brandyn",
+      "visibleAddress": "Grand Prarie",
+      "hiddenAddress": "1040 Westbrook Ct, Grand Prairie, TX 75052",
+      "coordinates": {
+        "lat": 32.7010376,
+        "lng": -97.020555
+      }
+    },
+    {
+      "id": 6,
+      "name": "Corbin",
+      "visibleAddress": "Garland",
+      "hiddenAddress": "1521 Wagon Wheel Rd, Garland, TX 75044",
+      "coordinates": {
+        "lat": 32.9393698,
+        "lng": -96.6512921
+      }
+    },
+    {
+      "id": 7,
+      "name": "Jack",
+      "visibleAddress": "Plano",
+      "hiddenAddress": "3107 Foxcreek Dr, Richardson, TX 75082",
+      "coordinates": {
+        "lat": 32.9948546,
+        "lng": -96.6951959
+      }
+    },
+    {
+      "id": 8,
+      "name": "Kris",
+      "visibleAddress": "Red Oak",
+      "hiddenAddress": "101 Foxtail Ct, Red Oak, TX 75154",
+      "coordinates": {
+        "lat": 32.5178898,
+        "lng": -96.7929276
+      }
+    },
+    {
+      "id": 9,
+      "name": "Connor",
+      "visibleAddress": "Carrollton",
+      "hiddenAddress": "3111 Sugarbush Ln, Carrollton, TX 75007",
+      "coordinates": {
+        "lat": 33.002357,
+        "lng": -96.9022594
+      }
+    },
+    {
+      "id": 10,
+      "name": "Somebody?",
+      "visibleAddress": "Mansfield",
+      "hiddenAddress": "1505 Lincoln Rd, Mansfield, TX 76063",
+      "coordinates": {
+        "lat": 32.5962822,
+        "lng": -97.1156843
+      }
+    },
+    {
+      "id": 11,
+      "name": "Mario",
+      "visibleAddress": "Fort Worth",
+      "hiddenAddress": "6905 Norma St, Fort Worth, TX 76112",
+      "coordinates": {
+        "lat": 32.7426183,
+        "lng": -97.2106984
+      }
+    },
+    {
+      "id": 12,
+      "name": "Tyler",
+      "visibleAddress": "Rowlett",
+      "hiddenAddress": "3414 Orchid Ln, Rowlett, TX 75089",
+      "coordinates": {
+        "lat": 32.9159823,
+        "lng": -96.5692929
+      }
+    },
+    {
+      "id": 13,
+      "name": "Adrian",
+      "visibleAddress": "Addison",
+      "hiddenAddress": "3414 Orchid Ln, Rowlett, TX 75089",
+      "coordinates": {
+        "lat": 32.961675,
+        "lng": -96.8495147
+      }
+    }
+  ],
+  "parks": [
+    {
+      "name": "Baseball Park A",
+      "lat": 39.7956,
+      "lng": -86.1351
+    },
+    {
+      "name": "Batting Cage B",
+      "lat": 39.794,
+      "lng": -86.132
+    }
+  ]
+}
