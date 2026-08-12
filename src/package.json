@@ -1,9 +1,0 @@
-{
-    "name": "baseball-website",
-    "version": "1.0.0",  
-    "description": "A simple website to coordinate baseball practice plans based on geographical distance.",
-    "main": "index.html",
-    "scripts": {
-        "start": "http-server"
-    }
-}
