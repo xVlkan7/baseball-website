@@ -136,6 +136,16 @@
         "lat": 32.961675,
         "lng": -96.8495147
       }
+    },
+    {
+      "id": 14,
+      "name": "Ian",
+      "visibleAddress": "Garland",
+      "hiddenAddress": "1526 Trowbridge Street, Garland, TX, 75044",
+      "coordinates": {
+        "lat": 32.93627,
+        "lng": -96.65109
+      }
     }
   ],
   "parks": [
