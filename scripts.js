@@ -4,6 +4,7 @@ let mapCenter;
 let participantLayer;
 let addressLayer;
 let midpointLayer;
+const notesStorageKey = "baseball-practice-notes";
 const addressIcon = L.divIcon({
   className: "address-marker",
   iconSize: [16, 16],
@@ -159,7 +160,25 @@ function updateMap() {
   });
 }
 
+function initNotes() {
+  const form = document.getElementById("notes-form");
+  const textarea = document.getElementById("practice-notes");
+  const status = document.getElementById("notes-status");
+  const savedNotes = localStorage.getItem(notesStorageKey);
+
+  if (savedNotes !== null) {
+    textarea.value = savedNotes;
+  }
+
+  form.addEventListener("submit", (event) => {
+    event.preventDefault();
+    localStorage.setItem(notesStorageKey, textarea.value);
+    status.textContent = "Notes saved.";
+  });
+}
+
 async function init() {
+  initNotes();
   const response = await fetch("data.json");
   if (!response.ok) {
     throw new Error(`Could not load data.json (${response.status})`);
